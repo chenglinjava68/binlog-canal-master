@@ -1,0 +1,4 @@
+com\tinyv\binlog\KafkaProducer.class
+com\tinyv\binlog\utils\PropertiesUtils.class
+com\tinyv\binlog\CanalClientMain.class
+com\tinyv\binlog\utils\ConfigUtils.class
